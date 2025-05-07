@@ -17,6 +17,11 @@ Bu projede, kullanıcı tarafından yüklenen hayvan görselleri, PyTorch ile e�
 
 ## 🚀 Kurulum
 
+
+Nasıl Kullanılır?
+
+
+Gerekli Kütüphaneleri Yükle ve uygulmayı başlat sırasıyla
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
