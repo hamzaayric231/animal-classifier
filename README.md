@@ -25,4 +25,4 @@ Gerekli Kütüphaneleri Yükle ve uygulmayı başlat sırasıyla
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-![animalclassifiera](https://github.com/user-attachments/assets/1d1caded-7284-4a39-8203-2e11301e8fac)
+
